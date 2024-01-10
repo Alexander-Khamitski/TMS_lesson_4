@@ -1,8 +1,8 @@
-package org.example.lesson4;
+package org.example.homework;
 
 import java.util.Arrays;
 
-public class Task5 {
+public class Task7 {
     /**
      * Задача *:
      * Имеется массив из неотрицательных чисел(любой). Представьте что массив
